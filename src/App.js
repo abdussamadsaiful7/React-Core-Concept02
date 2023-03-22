@@ -1,11 +1,15 @@
 import './App.css';
 import Countries from './componenets/Countries/Countries';
+import Footer from './componenets/Footer';
+import Header from './componenets/Header/Header';
 
 
 function App() {
   return (
     <div className="App">
-    <Countries></Countries>
+      <Header></Header>
+      <Countries></Countries>
+      <Footer></Footer>
     </div>
   );
 }

@@ -1,0 +1,11 @@
+.menu a{
+    text-decoration: none;
+    margin-left: 50px;
+    background-color: rgba(0, 0, 255, 0.688);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: bold;
+
+}
+
